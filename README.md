@@ -7,7 +7,7 @@ This project compares three mathematical models for the one-dimensional Cutting 
 The goal is to meet the demand for different piece lengths while using as few stock rolls as possible.
 ## How to run
 1. Open Google Colab.
-2. Upload `cutting_stock_colab_fixed.ipynb`.
+2. Upload `IOR.ipynb`.
 3. Click Runtime > Run all.
 4. Download the two CSV files generated at the end.
 The notebook installs PuLP 3.3.0 and uses the CBC solver. 
