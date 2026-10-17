@@ -19,5 +19,5 @@ The comparison includes:
 - Number of variables and constraints
 - LP relaxation bound
 ## Results
-`detailed_results.csv`: results for each model and instance
+`detailed_results.csv`: results for each model and instance;
 `summary_results.csv`: average performance of each model
